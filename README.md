@@ -4,13 +4,13 @@
 
 一款基于《囚徒健身》六艺十式的自重训练应用，无需器械，随时随地锻炼。
 
-![App Icon](ico.png)
+![App Icon](screenshots/icon.png)
 
 ## 📱 下载
 
 **最新版本**：v1.0
 
-点击 [Releases](https://github.com/Badcomput/PrisonFitness_app/releases) 下载最新 APK
+点击 [Releases](https://github.com/Badcomput/prisoner-fitness/releases) 下载最新 APK
 
 ## ✨ 功能
 
@@ -90,6 +90,12 @@
 - **动作标准**：质量比数量更重要
 - **坚持训练**：设置每日提醒，保持规律
 - **量力而行**：感到不适立即停止
+
+## 💰 打赏支持
+
+如果这个应用对你有帮助，欢迎打赏支持开发者！
+
+![微信打赏](screenshots/donate_qr.png)
 
 ## 📄 协议
 
