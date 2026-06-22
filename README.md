@@ -10,7 +10,7 @@
 
 **最新版本**：v1.0
 
-点击 [Releases](https://github.com/Badcomput/PrisonFitness_app/releases) 下载最新 APK
+点击 [Releases](https://github.com/Badcomput/PrisonFitness_app/releases/tag/Release) 下载最新 APK
 
 ## ✨ 功能
 
